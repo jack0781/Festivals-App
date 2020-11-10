@@ -22,7 +22,7 @@
     - api
       - index.js
     - actions
-      -fevcards.js
+      - fevcards.js
     - components
       - fevcards
         - Fevcard
