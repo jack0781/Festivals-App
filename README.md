@@ -42,7 +42,7 @@
     - index.css
     - styles.js
 
-#App start
+# App start
 - backend server start
   - nodemon 
   
